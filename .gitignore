@@ -1,0 +1,23 @@
+# Secrets and credentials
+.env.secrets
+.env
+aws_s3_secret
+*.gpg
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Temporary files
+*.tmp
+dx_input_*.json
+
+# Test files
+test.file
+
+# Result files
+*.txt
+
+# Folders
+misc_scripts/
